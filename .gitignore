@@ -1,0 +1,12 @@
+# Logs
+package-lock.json
+yarn.lock
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+#build folder
+dist
